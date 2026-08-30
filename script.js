@@ -1,3 +1,2 @@
-let hy = "hello world santiago";
-
-console.log(hy);
+let user = "Thiago";
+console.log(user);
